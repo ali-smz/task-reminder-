@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+}
+
+.container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.button{
+  outline: none;
+  border-radius: 1rem;
+  background-color: #7a0144;
+  border: none;
+  color: white;
+  padding: 15px 2rem;
+}
